@@ -1,0 +1,5 @@
+pymongo     -> For Database.
+tkinter     -> For GUI.
+speech_recognition      -> For Audio.
+vaderSentiment      -> For Analysis.
+pandas      -> For Excel.
